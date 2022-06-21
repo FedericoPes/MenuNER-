@@ -1,1 +1,1 @@
-# MenuNER-
+# MenuNER-DNLP Project
